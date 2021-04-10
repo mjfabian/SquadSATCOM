@@ -1,0 +1,17 @@
+# Ignore project files in the root
+*.sln
+!*\*.sln
+.vs
+*.suo
+*.opensdf
+*.sdf
+*.pdb
+*-Debug.dll
+*.xcodeproj
+.\Makefile
+.\CMakeLists.txt
+.\.ue4dependencies
+
+
+\Saved\*
+\*.sln
