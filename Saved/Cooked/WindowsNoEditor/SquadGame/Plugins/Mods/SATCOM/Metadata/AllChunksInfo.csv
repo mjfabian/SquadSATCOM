@@ -1,0 +1,18 @@
+ChunkID, Package Name, Class Type, Hard or Soft Chunk, File Size, Other Chunks
+0,/Engine/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x,Texture2D,Hard,7709,None
+0,/Engine/Tutorial/BlueprintTutorials/TutorialAssets/Blueprint_64x,Texture2D,Hard,17626,None
+0,/Engine/Tutorial/Landscape/TutorialAssets/Landscape,Texture2D,Hard,7692,None
+0,/SATCOM/Commander/BP_CommanderConsole,Blueprint,Soft From Unassigned Package? Best Guess: /SATCOM/Maps/Sandbox/Sandbox_LevelData->/SATCOM/Maps/Sandbox/Gameplay_Layers/Sandbox_RTS_v1->/SATCOM/Commander/BP_CommanderConsole,12856,None
+0,/SATCOM/Commander/BP_CommanderPawn,Blueprint,Soft From Unassigned Package? Best Guess: /SATCOM/Maps/Sandbox/Sandbox_LevelData->/SATCOM/Maps/Sandbox/Gameplay_Layers/Sandbox_RTS_v1->/SATCOM/Commander/BP_CommanderConsole->/SATCOM/Commander/BP_CommanderPawn,6044,None
+1000,/SATCOM/Core/BP_RTS_GameMode,Blueprint,Hard,4221,None
+0,/SATCOM/Core/BP_RTS_GameState,Blueprint,Soft From Unassigned Package? Best Guess: /SATCOM/Maps/Sandbox/Sandbox_LevelData->/SATCOM/Maps/Sandbox/Gameplay_Layers/Sandbox_RTS_v1->/SATCOM/Core/BP_RTS_GameMode->/SATCOM/Core/BP_RTS_GameState,4825,None
+0,/SATCOM/Core/BP_RTS_PlayerController,Blueprint,Soft From Unassigned Package? Best Guess: /SATCOM/Maps/Sandbox/Sandbox_LevelData->/SATCOM/Maps/Sandbox/Gameplay_Layers/Sandbox_RTS_v1->/SATCOM/Core/BP_RTS_GameMode->/SATCOM/Core/BP_RTS_PlayerController,5211,None
+0,/SATCOM/Core/BP_RTS_Ruleset,Blueprint,Soft From Unassigned Package? Best Guess: /SATCOM/Maps/Sandbox/Sandbox_LevelData->/SATCOM/Maps/Sandbox/Gameplay_Layers/Sandbox_RTS_v1->/SATCOM/Core/BP_RTS_GameMode->/SATCOM/Core/BP_RTS_Ruleset,4647,None
+0,/SATCOM/Core/SATCOM_GameModeTable,DataTable,Soft From Unassigned Package? Best Guess: /SATCOM/Maps/Sandbox/Sandbox_LevelData->/SATCOM/Maps/Sandbox/Gameplay_Layer_Data/Sandbox_RTS_v1->/SATCOM/Core/SATCOM_GameModeTable,2861,None
+0,/SATCOM/Maps/Sandbox/Gameplay_Layer_Data/Sandbox_RTS_v1,BP_SQLayer_C,Soft From Unassigned Package? Best Guess: /SATCOM/Maps/Sandbox/Sandbox_LevelData->/SATCOM/Maps/Sandbox/Gameplay_Layer_Data/Sandbox_RTS_v1,3695,None
+0,/SATCOM/Maps/Sandbox/Gameplay_Layers/Sandbox_RTS_v1,World,Soft From Unassigned Package? Best Guess: /SATCOM/Maps/Sandbox/Sandbox_LevelData->/SATCOM/Maps/Sandbox/Gameplay_Layers/Sandbox_RTS_v1,14211,None
+0,/SATCOM/Maps/Sandbox/LightingLayers/LL_Sandbox_Midday,World,Soft From Unassigned Package? Best Guess: /SATCOM/Maps/Sandbox/Gameplay_Layer_Data/Sandbox_RTS_v1->/SATCOM/Maps/Sandbox/Gameplay_Layers/Sandbox_RTS_v1->/SATCOM/Maps/Sandbox/LightingLayers/LL_Sandbox_Midday,668621,None
+0,/SATCOM/Maps/Sandbox/Sandbox_Geo,World,Soft From Unassigned Package? Best Guess: /SATCOM/Maps/Sandbox/Gameplay_Layer_Data/Sandbox_RTS_v1->/SATCOM/Maps/Sandbox/Gameplay_Layers/Sandbox_RTS_v1->/SATCOM/Maps/Sandbox/Sandbox_Geo,2636098,None
+0,/SATCOM/Maps/Sandbox/Sandbox_LevelData,BP_SQLevel_C,Soft From Unassigned Package? Best Guess: /SATCOM/Maps/Sandbox/Sandbox_LevelData,1570,None
+0,/SATCOM/Settings/Maps/SATCOM_LayerTable,DataTable,Soft From Unassigned Package? Best Guess: /SATCOM/Maps/Sandbox/Sandbox_LevelData->/SATCOM/Maps/Sandbox/Gameplay_Layer_Data/Sandbox_RTS_v1->/SATCOM/Settings/Maps/SATCOM_LayerTable,1054,None
+0,/SATCOM/Settings/Maps/SATCOM_LevelTable,DataTable,Soft From Unassigned Package? Best Guess: /SATCOM/Maps/Sandbox/Sandbox_LevelData->/SATCOM/Settings/Maps/SATCOM_LevelTable,2437,None
